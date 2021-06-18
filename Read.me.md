@@ -1,4 +1,6 @@
-![Logo](https://github.com/Saz0n/teste/blob/main/caveira_cabra-export.png)
+<p align="center">
+  <img src="https://github.com/Saz0n/teste/blob/main/caveira_cabra-export.png" />
+</p>
 
 # Projeto Eyes in the Woods
 
@@ -31,3 +33,7 @@ Através das ferramentas Aseprite, Unity e FL Studio está sendo construido o ga
 - [@Realdo Justino Junior ](https://github.com/Realdo-Justino)
 
 - [@Eduardo Sazan ](https://github.com/Saz0n)
+
+<p align="center">
+  <img src="https://github.com/Saz0n/teste/blob/main/chão.png" />
+</p>
